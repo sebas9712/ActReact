@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Game from './components/Game/Game'
+import Menu from './components/Menu/Menu'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
